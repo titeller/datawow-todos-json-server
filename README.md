@@ -31,3 +31,5 @@ PATCH  /todos/1
 DELETE /todos/1
 ```
 
+Full documentation please see [https://github.com/typicode/json-server#routes](https://github.com/typicode/json-server#routes)
+
